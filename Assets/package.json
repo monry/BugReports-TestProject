@@ -1,0 +1,23 @@
+{
+  "name": "dev.monry.upm.bugreports-testproject",
+  "displayName": "BugReports TestProject",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "description": "Does not compile Test Assemblies that provided by Unity Package Manager.",
+  "author": {
+    "name": "Tetsuya Mori",
+    "url": "https://github.com/monry"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://monry.mit-license.org"
+  },
+  "keywords": ["bugreports"],
+  "category": "",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monry/BugReports-TestProject"
+  }
+}
